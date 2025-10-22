@@ -76,6 +76,7 @@ class _ChatScreenState extends State<ChatScreen> {
       appBar: AppBar(
         title: const Text('Chat App'),
       ),
+      backgroundColor: Colors.blue,
       body: Column(
         children: <Widget>[
           Flexible(
